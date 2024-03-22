@@ -14,6 +14,6 @@ Hello! I'm Arif, a software developer based in Ankara. I graduated from Manageme
 ![](https://github-contributor-stats.vercel.app/api?username=arifiskilip&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=arifiskilip&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=arifiskilip&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=arifiskilip&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
